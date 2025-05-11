@@ -57,7 +57,7 @@ Add the following to the `<dependencies>` section
 </dependency>
 <dependency>
     <groupId>net.devh</groupId>
-    <artifactId>grpc-spring-boot-starter</artifactId>
+    <artifactId>grpc-server-spring-boot-starter</artifactId>
     <version>3.1.0.RELEASE</version>
 </dependency>
 <dependency>
